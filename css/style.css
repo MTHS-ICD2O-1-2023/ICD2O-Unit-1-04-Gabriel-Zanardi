@@ -4,5 +4,16 @@
 */
 
 body {
-  background-color: pruple;
-  
+  background-color: #800080;
+}
+
+h1 {
+  background-color: pink;
+  color: rgb (30 250 0);
+  padding: 50px;
+  text-align: center;
+}
+
+p {
+  background-color: aquamarine;
+}
